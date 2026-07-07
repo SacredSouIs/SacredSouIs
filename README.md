@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sacredsouis.straw.page">strawpage</a>
+  <a href="https://saacredsouls.straw.page">strawpage</a>
 </p>
 
 <p align="center">
