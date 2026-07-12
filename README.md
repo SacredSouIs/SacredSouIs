@@ -3,13 +3,8 @@
 </p>
 
 <p align="center">
-  <img align="left" width="240" src="https://loheeeeeen.carrd.co/assets/images/image01.png?v=a0276459">
-</p>
-
-<br><br><br><br><br><br>
-
-<p align="center">
+  <img src="https://loheeeeeen.carrd.co/assets/images/image01.png?v=a0276459" width="300"><br><br>
   <a href="https://saacredsouls.straw.page">straw</a>
   ♡
-  <a href="https://sacredsouls.atabook.org">ata</a>
+  <a href="https://atabook.org/u/YOUR_USERNAME">ata</a>
 </p>
