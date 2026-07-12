@@ -2,10 +2,20 @@
   <img src="https://img.shields.io/badge/betrayed_hearts-6,548-3d0612?style=plastic">
 </p>
 
-<p align="center">
-  <a href="https://saacredsouls.straw.page">strawpage</a>
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/9ae1b34b9b32a37c63d2a7eda38aee25/06f572a0f269618d-d8/s540x810/8a2d2b16629be0d92c55dcf5ae96e19d675b50f8.gifv" width="600">
-</p>
+<td width="40%" align="center">
+  <img src="https://loheeeeeen.carrd.co/assets/images/image01.png?v=a0276459" width="220">
+</td>
+
+<td width="60%">
+
+<a href="https://saacredsouls.straw.page">straw</a>
+♡
+<a href="https://sacredsouls.atabook.org">ata</a>
+
+</td>
+
+</tr>
+</table>
