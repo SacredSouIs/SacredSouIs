@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/betrayed_hearts-6,548-ffe6ee?style=plastic">
+  <img src="https://img.shields.io/badge/betrayed_hearts-6,548-ffdbe9?style=plastic">
 </p>
 
 <p align="center">
