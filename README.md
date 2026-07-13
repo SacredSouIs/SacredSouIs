@@ -14,7 +14,7 @@
   <img width="250">
 
   <a href="https://sacredsouls.atabook.org">
-    <img src="https://loheeeeeen.carrd.co/assets/images/image03.png?v=82e66d11" width="180">
+    <img src="https://loheeeeeen.carrd.co/assets/images/image03.png?v=82e66d11" width="160">
   </a>
 </div>
 
