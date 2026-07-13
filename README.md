@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://loheeeeeen.carrd.co/assets/images/image01.jpg?v=551ff43d" width="700">
+<img src="https://loheeeeeen.carrd.co/assets/images/image02.jpg?v=04e71c86" width="700">
 
 <div align="center">
   <a href="https://saacredsouls.straw.page">
