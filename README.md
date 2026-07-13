@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://saacredsouls.straw.page">
-    <img src="https://loheeeeeen.carrd.co/assets/images/image01.png?v=04e71c86" width="180">
+    <img src="https://loheeeeeen.carrd.co/assets/images/image01.png?v=04e71c86" width="200">
   </a>
 
   <img width="250">
