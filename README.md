@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/betrayed_hearts-6,548-ffdbe9?style=plastic">
+  <img src="https://img.shields.io/badge/phantom_thieves-12,347-ffdbe9?style=plastic">
 </p>
 
 <div align="center">
 
-<img src="https://loheeeeeen.carrd.co/assets/images/image02.jpg?v=04e71c86" width="700">
+<img src="https://loheeeeeen.carrd.co/assets/images/image02.jpg?v=04e71c86" width="600">
 
 <div align="center">
   <a href="https://saacredsouls.straw.page">
