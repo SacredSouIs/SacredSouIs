@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/phantom_thieves-6,348-a12612?style=plastic">
+  <img src="https://img.shields.io/badge/phantom_thieves-6,348-A12612?style=plastic">
 </p>
 
 <div align="center">
