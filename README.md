@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://img.shields.io/badge/Profile_Views-12.8K-D6C4A0?style=flat-square">
-
 <div align="center">
 
 <img src="https://rengoro.carrd.co/assets/images/image01.png?v=3a419132" width="300">
