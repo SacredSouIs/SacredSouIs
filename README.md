@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/𓍼-1.5K-A62814?style=plastic">
+  <img src="https://img.shields.io/badge/test-1.5K-A62814?style=plastic">
 </p>
 
 <div align="center">
